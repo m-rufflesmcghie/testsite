@@ -13,8 +13,8 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Jekyll Metro'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
-url:              'http://192.168.1.11:4000'
-baseurl:          ''
+url:              'https://github.com/m-rufflesmcghie/testsite'
+baseurl:          'https://github.com/m-rufflesmcghie/testsite'
 
 # Navigation
 navigation:
@@ -33,7 +33,7 @@ navigation:
 
 
 # Author Details
-author:         'Abdel Raoof Olakara'
+author:         'Isobella Ruffles-McGhie'
 
 #Social Media links (Use complete URL except for email)
 dribbble:
