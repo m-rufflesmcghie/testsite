@@ -13,8 +13,8 @@ permalink:        /blog/:year/:month/:day/:title
 title:            'Jekyll Metro'
 tagline:          'A Metro theme for Jekyll'
 description:      'A Sample blog using Jekyll Metro'
-url:              'https://github.com/m-rufflesmcghie/testsite'
-baseurl:          'https://github.com/m-rufflesmcghie/testsite'
+url:              'https://m-rufflesmcghie.github.io/testsite/'
+baseurl:          
 
 # Navigation
 navigation:
